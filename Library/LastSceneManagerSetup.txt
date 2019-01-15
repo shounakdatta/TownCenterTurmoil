@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TCT - Dec. 20, 2016.unity
+  isLoaded: 1
+  isActive: 1
